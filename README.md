@@ -10,6 +10,8 @@
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20and%20Software%20Engineering%20Roles-brightgreen?style=for-the-badge" alt="Open to work" />
 
+![](https://komarev.com/ghpvc/?username=mahrukh-adeel)
+
 <p>
 <a href="https://www.linkedin.com/in/mahrukh-adeel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
